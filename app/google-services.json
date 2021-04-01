@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "134140384500",
+    "project_id": "res-cos",
+    "storage_bucket": "res-cos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134140384500:android:fed2430761a565d8c5faa1",
+        "android_client_info": {
+          "package_name": "com.example.rescos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134140384500-b6tolbr86fe2kfacq3sjlupo0j8dfbfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrlZNFKoVD-wtFPFbwAFAvBzNDXcRqc8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134140384500-b6tolbr86fe2kfacq3sjlupo0j8dfbfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

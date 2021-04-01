@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">ResCos</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="no">NO</string>
+    <string name="yes">YES</string>
+    <string name="user_login">User Login</string>
+    <string name="textview">
+       <b>What waste you need:</b>
+       \n 1.Tin can
+       \n 2.Hammer
+       \n 3.Wire
+       \n 4.Nail
+       \n 5.Pliers
+       \n 6.Lights
+       \n 7.Paint
+       <b>What to do out of these:</b>
+       \n 1.Wash and clean the tin can and let it dry.
+       \n 2.Fill the can with water and put it in the freezer for some time.
+       \n 3.Remove the can from the freezer and then poke two holes in the can, one on each side.
+       \n 4.Use the wire to make a handle attaching it to the two holes
+       \n 5.Make various holes around the can with hammer and nails. You can choose to create a pattern of holes or just be random.
+       \n 6. Paint the inside and outside of the cans in fun, vibrant colours.
+       \n 7.Once it’s all dry, you can put fairy lights or tea light candles in them to turn them into lanterns. </string>
+    <string name="textview1">
+        <b>What waste you need:</b>
+         \n 1.Plastic bottle
+         \n 2.Piece of paper (Be creative with your newspaper choice)
+         \n 3.Felt pens
+         \n 4.Glue
+        <b>What to do out of these:</b>
+         \n 1.Clean and dry the bottle.
+         \n 2.On the side of the bottle, cut a slot big enough to send a coin through.
+         \n 3.Seal the edges with glued paper or tape to prevent any tearing.
+         \n 4.Cover the rest of the bottle with the paper and paint it or make patterns.
+         \n 5.You can even go all out and make it look like a pig with just same basic paper sticking.
+         \n 6.Your money bank is ready!
+    </string>
+    <string name="mk">TextView</string>
+    <string name="rb">
+<b> 1. Use a reusable bottle/cup for beverages on-the-go:</b>
+\n\n You might already have a reusable water bottle, but do you use it all the time? You can put that reusable bottle to use, save money, and reduce waste. By taking your own water with you, you’ll also reduce your chances of purchasing more expensive beverages on-the-go. This will eliminate the one-time use containers they come in. While most cans and bottles can be recycled, they require a lot of energy to be produced, shipped to the bottling facility and then to the store for purchase.\n\n\n\n
+
+<b>2. Use reusable grocery bags, and not just for groceries</b>
+\n\n Just like a reusable water bottle, you may already have a reusable grocery bag, though it’s often forgotten at home. Try writing BAGS on the top of your grocery list to help you remember, or keep them in the back seat where they aren’t as easy to forget. Many grocery stores will provide a 5 cent per bag refund so you’ll save a few cents while reducing your usage of one-time-use plastic bags.  \n\n\n\n
+
+<b>3. Purchase wisely and recycle</b>
+\n\n You can reduce the amount of waste you produce by purchasing products that come with less packaging and/or come in packaging that can be recycled. Not all plastics are recyclable in Delaware, so check labels before your buy. According to Delaware’s Division of Waste and Hazardous Substances website, “Containers labeled with a 1 or a 2 are almost always accepted because they are the highest value resins. Resins 4, 5 and 7 are now accepted in most programs in Delaware.” Plastics labeled with a 3/PVC and 6/PS are generally not recyclable in Delaware. Learn more about recycling programs in Delaware at http://www.recyclerightde.org \n\n\n\n
+
+<b>4. Compost it!</b>
+\n\n Did you know as much as 25% of the items in your trash could potentially be removed from the waste stream and composted in your back yard? Your fruit and vegetable scraps, egg shells, coffee grounds, grass clippings, and leaves can all be composted. While composting requires more effort than the previously mentioned lifestyle changes, it will provide you with a beneficial return on your investment of time and effort. Depending on the conditions, you may have compost in 3 to 12 months to use in your garden. You’ll save on fertilizers and if you grow your own vegetables, you’ll likely see improved yields. The organic matter will also act as a sponge to absorb more water, meaning you might not need to water your plants as much, saving you money and time. \n\n\n\n
+
+<b>5. Avoid single-use food and drink containers and utensils</b>
+\n\n Whenever possible, try to avoid single-use coffee cups, disposable utensils, straws and napkins. Some businesses will even give you a discount on your coffee for bringing your own mug. Keep a set of silverware at work along with a plate, bowl and cup that you can wash and reuse. Skip the plastic straw altogether or buy reusable metal ones instead. Remember, a lot of these items are made from plastic, had to be delivered by a truck, and will end up in a landfill once we have used them one time. Anything we can do to reduce our use of these products adds up to make a big impact. \n\n\n\n
+
+<b>6. Buy secondhand items and donate used goods</b>
+\n\n Before you go buy something new, consider buying it used which can also save you lots of money. That can mean buying secondhand clothes at Goodwill, used furniture and repurposed construction materials at Habitat for Humanity’s ReStore, or searching Craigslist for a deal on a bicycle. By purchasing secondhand items you’ll be supporting local charities in addition to saving items from ending up in the dump. \n\n\n\n
+
+<b>7. Shop local farmers markets and buy in bulk to reduce packaging</b>
+\n\n Shopping at your local farmers market is a win-win. First, you’ll be supporting local farmers while also getting fresher ingredients than you might find in the big-box grocery store. Food produced locally doesn’t have to be shipped as far or refrigerated in transit. Local farmers often rely on less packaging and many are happy to have you return last week’s berry basket or egg carton for use next week. You can also majorly reduce packaging waste by shopping at stores that sell food in bulk, but you’ll need to come prepared with your own containers. \n\n\n\n
+
+<b>8. Curb your use of paper: mail, receipts, magazines</b>
+\n\n In today’s digital world, most companies offer bills by email, and some even offer incentives to do so. More stores are offering e-receipts, too, which are great because they’re harder to lose if you need to make a return. Consider digital subscriptions for your favorite magazines that you can read on your tablet or computer. Digital subscriptions are often a little cheaper than the hard-copy version, as well. \n\n\n\n
+    </string>
+</resources>
